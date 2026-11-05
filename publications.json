@@ -1,0 +1,41 @@
+{
+  "program": "Orion Research Labs",
+  "last_updated": "2026-10-24",
+  "papers": [
+    {
+      "paper_id": "ORL-2023-004",
+      "title": "Adaptive Compute Allocation for Sparse Mixture-of-Experts Inference",
+      "authors": "L. Chen, R. Okafor, M. Haddad",
+      "venue": "COAI 2024",
+      "status": "published"
+    },
+    {
+      "paper_id": "ORL-2023-009",
+      "title": "Graph-Structured Retrieval Augmentation for Multi-Hop Question Answering",
+      "authors": "S. Iyer, D. Moreau, K. Tanaka",
+      "venue": "",
+      "status": "under_review"
+    },
+    {
+      "paper_id": "ORL-2024-002",
+      "title": "Federated Anomaly Detection for Industrial Sensor Networks",
+      "authors": "A. Novak, J. Mensah, P. Rossi",
+      "venue": "SenSys 2025",
+      "status": "published"
+    },
+    {
+      "paper_id": "ORL-2025-001",
+      "title": "Causal Chain Verification for Large Language Model Reasoning",
+      "authors": "M. Farouk, E. Vasquez, T. Brandt",
+      "venue": "",
+      "status": "under_review"
+    },
+    {
+      "paper_id": "ORL-2025-003",
+      "title": "Continual Learning for Low-Power Edge Devices",
+      "authors": "H. Sato, N. Adeyemi, C. Duval",
+      "venue": "",
+      "status": "under_review"
+    }
+  ]
+}
