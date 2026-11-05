@@ -31,7 +31,8 @@
       "title": "Causal Chain Verification for Large Language Model Reasoning",
       "authors": "M. Farouk, E. Vasquez, T. Brandt",
       "venue": "COAI 2026",
-      "status": "accepted"
+      "status": "accepted",
+      "codeurl": "https://github.com/knobbyintens/orion-labs-a1c7-verity"
     },
     {
       "paper_id": "ORL-2025-003",
